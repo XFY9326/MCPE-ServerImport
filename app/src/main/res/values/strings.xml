@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Server_Test</string>
+    <string name="title">Test 服务器</string>
+    <string name="data">—— 服务器数据加载器</string>
+    <string name="add">点击此处载入服务器数据</string>
+    <string name="done">确认</string>
+    <string name="cancel">取消</string>
+    <string name="set_ok">服务器数据设置成功</string>
+    <string name="set_re">服务器数据已经设置过了</string>
+    <string name="set_err">服务器数据设置出错</string>
+</resources>
